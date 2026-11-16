@@ -5,7 +5,7 @@
 ## Installation
 
 1. Install **Tampermonkey** (Desktop) or open **Torn PDA** (Mobile -> Settings -> Advanced Browser Settings -> Userscripts).
-2. **[Click here to install Torn Media Chat v1.6](https://raw.githubusercontent.com/YOUR_USERNAME/torn-media-chat/main/torn-media-chat.user.js)**
+2. **[Click here to install Torn Media Chat v1.6](https://raw.githubusercontent.com/MichaelJamesLabao/torn-media-chat/main/torn-media-chat.user.js)**
 3. Refresh Torn.
 
 ## Features
